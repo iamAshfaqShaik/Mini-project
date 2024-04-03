@@ -1,1 +1,1 @@
-https://github.com/iamAshfaqShaik/Mini-project/blob/main/zakath/script.js
+file:///C:/Users/sashf/Desktop/zakath/zz.html
